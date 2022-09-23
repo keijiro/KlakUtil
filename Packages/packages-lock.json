@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "jp.keijiro.klak.util": {
+      "version": "file:jp.keijiro.klak.util",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    }
+  }
+}
